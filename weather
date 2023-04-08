@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+wget -q -O - http://wttr.in/Earlville:NY?u | head -n 17 | tail -n 10
